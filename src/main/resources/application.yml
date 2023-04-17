@@ -5,7 +5,7 @@ spring:
     name: mjz_comment
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://120.78.12.14:3306/hmdp?useSSL=false&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/hmdp?useSSL=false&serverTimezone=UTC
     username: root
     password: mysqlnode1
   #    password: ${Mysql_Password}
