@@ -1,8 +1,7 @@
 # mjz_comment
 
 #### 介绍
-本项目目的在于实践Redis
-Redis学习视频地址：https://www.bilibili.com/video/BV1cr4y1671t
+达人探店
 
 #### 功能
 短信登录：  
